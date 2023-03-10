@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpytheas_db"]=self["webpackChunkpytheas_db"]||[]).push([[443],{4573:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var u=t(6492);const r=(0,u._)("p",null,"AboutView page.",-1),a=[r];function s(e,n,t,r,s,c){return(0,u.wg)(),(0,u.iD)("div",null,a)}var c={name:"AboutView"},i=t(1164);const l=(0,i.Z)(c,[["render",s]]);var o=l}}]);
+//# sourceMappingURL=about.a39a9d7c.js.map
